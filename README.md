@@ -1,9 +1,9 @@
-# DC101_TpyingSpeedTest-_FabreroMarkVincent
+# DC101_TpyingSpeedTest_FabreroMarkVincent
 
-# Typing Speed Test +
+# Typing Speed Test
 
 ## ⌨️ Game Description
-Typing Speed Test + is a web-based typing game designed to measure a user's typing speed and accuracy.  
+Typing Speed Test is a web-based typing game designed to measure a user's typing speed and accuracy.  
 The player is given a text passage and must type it correctly within a limited time.  
 At the end of the test, the game displays the user’s **Words Per Minute (WPM)**, **accuracy**, and overall performance, helping users improve their typing skills through practice.
 
